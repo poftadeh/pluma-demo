@@ -1,0 +1,101 @@
+[PLUMA ERROR]
+        
+Thu Sep 12 2019 15:35:03 GMT-0400 (Eastern Daylight Time)
+        
+TypeError: element.scrollIntoView is not a function
+    at WebElement.click (/snapshot/plumadriver/build/WebElement/WebElement.js:122:17)
+    at /snapshot/plumadriver/build/Session/Session.js:120:78
+    at new Promise (<anonymous>)
+    at Session.process (/snapshot/plumadriver/build/Session/Session.js:51:16)
+    at defaultSessionEndpointLogic (/snapshot/plumadriver/build/utils/utils.js:171:42)
+    at /snapshot/plumadriver/build/utils/utils.js:160:9
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)        
+        
+	req: POST /session/6a82bda0-d594-11e9-8144-47150d16f34d/element/6aa6e770-d594-11e9-8144-47150d16f34d/click
+-------------------------------------------------------------------------------------
+        
+[PLUMA ERROR]
+        
+Thu Sep 12 2019 15:36:53 GMT-0400 (Eastern Daylight Time)
+        
+TypeError: element.scrollIntoView is not a function
+    at WebElement.click (/snapshot/plumadriver/build/WebElement/WebElement.js:122:17)
+    at /snapshot/plumadriver/build/Session/Session.js:120:78
+    at new Promise (<anonymous>)
+    at Session.process (/snapshot/plumadriver/build/Session/Session.js:51:16)
+    at defaultSessionEndpointLogic (/snapshot/plumadriver/build/utils/utils.js:171:42)
+    at /snapshot/plumadriver/build/utils/utils.js:160:9
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)        
+        
+	req: POST /session/ac805b40-d594-11e9-8dc1-5d1755afcfbe/element/aca08d70-d594-11e9-8dc1-5d1755afcfbe/click
+-------------------------------------------------------------------------------------
+        
+[PLUMA ERROR]
+        
+Thu Sep 12 2019 15:38:33 GMT-0400 (Eastern Daylight Time)
+        
+TypeError: element.scrollIntoView is not a function
+    at WebElement.click (/snapshot/plumadriver/build/WebElement/WebElement.js:122:17)
+    at /snapshot/plumadriver/build/Session/Session.js:120:78
+    at new Promise (<anonymous>)
+    at Session.process (/snapshot/plumadriver/build/Session/Session.js:51:16)
+    at defaultSessionEndpointLogic (/snapshot/plumadriver/build/utils/utils.js:171:42)
+    at /snapshot/plumadriver/build/utils/utils.js:160:9
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)        
+        
+	req: POST /session/e7cf4f30-d594-11e9-a059-d73dbcafeb27/element/e7f2b5b0-d594-11e9-a059-d73dbcafeb27/click
+-------------------------------------------------------------------------------------
+        
+[PLUMA ERROR]
+        
+Mon Sep 16 2019 15:05:06 GMT-0400 (Eastern Daylight Time)
+        
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at new NotFoundError (/snapshot/plumadriver/build/Error/NotFoundError.js:6:9)
+    at new NoSuchElement (/snapshot/plumadriver/build/Error/NoSuchElement.js:6:9)
+    at /snapshot/plumadriver/build/Session/Session.js:69:35
+    at new Promise (<anonymous>)
+    at Session.process (/snapshot/plumadriver/build/Session/Session.js:51:16)
+    at defaultSessionEndpointLogic (/snapshot/plumadriver/build/utils/utils.js:171:42)
+    at /snapshot/plumadriver/build/utils/utils.js:160:9
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)        
+        
+	req: POST /session/e5201a30-d8b4-11e9-8b3f-b14a2d2b859d/element
+-------------------------------------------------------------------------------------
+        
+[PLUMA ERROR]
+        
+Mon Sep 16 2019 15:08:00 GMT-0400 (Eastern Daylight Time)
+        
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at new NotFoundError (/snapshot/plumadriver/build/Error/NotFoundError.js:6:9)
+    at new NoSuchElement (/snapshot/plumadriver/build/Error/NoSuchElement.js:6:9)
+    at /snapshot/plumadriver/build/Session/Session.js:69:35
+    at new Promise (<anonymous>)
+    at Session.process (/snapshot/plumadriver/build/Session/Session.js:51:16)
+    at defaultSessionEndpointLogic (/snapshot/plumadriver/build/utils/utils.js:171:42)
+    at /snapshot/plumadriver/build/utils/utils.js:160:9
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)        
+        
+	req: POST /session/4cd1aa40-d8b5-11e9-9db9-5b0162467e3c/element
+-------------------------------------------------------------------------------------
+        
+[PLUMA ERROR]
+        
+Mon Sep 16 2019 16:12:54 GMT-0400 (Eastern Daylight Time)
+        
+ReferenceError: window is not defined
+    at eval (eval at executeScript (/snapshot/plumadriver/build/Session/Session.js:522:28), <anonymous>:3:1)
+    at Object.base.apply (/snapshot/plumadriver/node_modules/vm2/lib/contextify.js:467:32)
+    at vm.js:1:1
+    at Script.runInContext (vm.js:136:20)
+    at VM.run (/snapshot/plumadriver/node_modules/vm2/lib/main.js:218:62)
+    at /snapshot/plumadriver/build/Session/Session.js:536:31
+    at new Promise (<anonymous>)
+    at Session.executeScript (/snapshot/plumadriver/build/Session/Session.js:534:16)
+    at /snapshot/plumadriver/build/Session/Session.js:112:47
+    at new Promise (<anonymous>)        
+        
+	req: POST /session/5e285c40-d8be-11e9-95be-fde1b59fcc84/execute/sync
+-------------------------------------------------------------------------------------
+        

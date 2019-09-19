@@ -1,0 +1,4413 @@
+{
+  level: 'info',
+  message: 'GET /status 200 3ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:14183',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 4ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '233',
+        host: 'localhost:14183',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 4
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/a9586210-d3f9-11e9-9490-49124287fcd4/url 200 171ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/a9586210-d3f9-11e9-9490-49124287fcd4/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '47',
+        host: 'localhost:14183',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/a9586210-d3f9-11e9-9490-49124287fcd4/url',
+      query: {}
+    },
+    responseTime: 171
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/a9586210-d3f9-11e9-9490-49124287fcd4/element 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/a9586210-d3f9-11e9-9490-49124287fcd4/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:14183',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/a9586210-d3f9-11e9-9490-49124287fcd4/element',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'GET ' +
+    '/session/a9586210-d3f9-11e9-9490-49124287fcd4/element/a97fe740-d3f9-11e9-9490-49124287fcd4/text ' +
+    '200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/a9586210-d3f9-11e9-9490-49124287fcd4/element/a97fe740-d3f9-11e9-9490-49124287fcd4/text',
+      headers: {
+        'cache-control': 'no-cache',
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        host: 'localhost:14183',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/session/a9586210-d3f9-11e9-9490-49124287fcd4/element/a97fe740-d3f9-11e9-9490-49124287fcd4/text',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'DELETE /session/a9586210-d3f9-11e9-9490-49124287fcd4 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/a9586210-d3f9-11e9-9490-49124287fcd4',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-length': '0',
+        host: 'localhost:14183',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/session/a9586210-d3f9-11e9-9490-49124287fcd4',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 3ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:24082',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 5ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '233',
+        host: 'localhost:24082',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 5
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/142ae130-d3fa-11e9-9c0e-d7fc92f8b27d/url 200 136ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/142ae130-d3fa-11e9-9c0e-d7fc92f8b27d/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '47',
+        host: 'localhost:24082',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/142ae130-d3fa-11e9-9c0e-d7fc92f8b27d/url',
+      query: {}
+    },
+    responseTime: 136
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/142ae130-d3fa-11e9-9c0e-d7fc92f8b27d/element 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/142ae130-d3fa-11e9-9c0e-d7fc92f8b27d/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:24082',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/142ae130-d3fa-11e9-9c0e-d7fc92f8b27d/element',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'GET ' +
+    '/session/142ae130-d3fa-11e9-9c0e-d7fc92f8b27d/element/144d3640-d3fa-11e9-9c0e-d7fc92f8b27d/text ' +
+    '200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/142ae130-d3fa-11e9-9c0e-d7fc92f8b27d/element/144d3640-d3fa-11e9-9c0e-d7fc92f8b27d/text',
+      headers: {
+        'cache-control': 'no-cache',
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        host: 'localhost:24082',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/session/142ae130-d3fa-11e9-9c0e-d7fc92f8b27d/element/144d3640-d3fa-11e9-9c0e-d7fc92f8b27d/text',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'DELETE /session/142ae130-d3fa-11e9-9c0e-d7fc92f8b27d 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/142ae130-d3fa-11e9-9c0e-d7fc92f8b27d',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-length': '0',
+        host: 'localhost:24082',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/session/142ae130-d3fa-11e9-9c0e-d7fc92f8b27d',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 3ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:10996',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 4ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '233',
+        host: 'localhost:10996',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 4
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/28d5d930-d401-11e9-97e9-212d0e57c11b/url 200 151ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/28d5d930-d401-11e9-97e9-212d0e57c11b/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '47',
+        host: 'localhost:10996',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/28d5d930-d401-11e9-97e9-212d0e57c11b/url',
+      query: {}
+    },
+    responseTime: 151
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/28d5d930-d401-11e9-97e9-212d0e57c11b/element 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/28d5d930-d401-11e9-97e9-212d0e57c11b/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:10996',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/28d5d930-d401-11e9-97e9-212d0e57c11b/element',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:31884',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 4ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '233',
+        host: 'localhost:31884',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 4
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/36b52dd0-d401-11e9-9914-2b7ae10037ac/url 200 145ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/36b52dd0-d401-11e9-9914-2b7ae10037ac/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '47',
+        host: 'localhost:31884',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/36b52dd0-d401-11e9-9914-2b7ae10037ac/url',
+      query: {}
+    },
+    responseTime: 145
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/36b52dd0-d401-11e9-9914-2b7ae10037ac/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/36b52dd0-d401-11e9-9914-2b7ae10037ac/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:31884',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/36b52dd0-d401-11e9-9914-2b7ae10037ac/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'GET ' +
+    '/session/36b52dd0-d401-11e9-9914-2b7ae10037ac/element/36d86d40-d401-11e9-9914-2b7ae10037ac/text ' +
+    '200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/36b52dd0-d401-11e9-9914-2b7ae10037ac/element/36d86d40-d401-11e9-9914-2b7ae10037ac/text',
+      headers: {
+        'cache-control': 'no-cache',
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        host: 'localhost:31884',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/session/36b52dd0-d401-11e9-9914-2b7ae10037ac/element/36d86d40-d401-11e9-9914-2b7ae10037ac/text',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'DELETE /session/36b52dd0-d401-11e9-9914-2b7ae10037ac 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/36b52dd0-d401-11e9-9914-2b7ae10037ac',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-length': '0',
+        host: 'localhost:31884',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/session/36b52dd0-d401-11e9-9914-2b7ae10037ac',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 3ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:6715',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 3ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '233',
+        host: 'localhost:6715',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/3d089820-d401-11e9-b612-8d88dca636b8/url 200 132ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/3d089820-d401-11e9-b612-8d88dca636b8/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '47',
+        host: 'localhost:6715',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/3d089820-d401-11e9-b612-8d88dca636b8/url',
+      query: {}
+    },
+    responseTime: 132
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/3d089820-d401-11e9-b612-8d88dca636b8/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/3d089820-d401-11e9-b612-8d88dca636b8/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:6715',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/3d089820-d401-11e9-b612-8d88dca636b8/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:22458',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '233',
+        host: 'localhost:22458',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/0f7c9910-d573-11e9-a407-cb1d70a57ae7/url 200 146ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/0f7c9910-d573-11e9-a407-cb1d70a57ae7/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '47',
+        host: 'localhost:22458',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/0f7c9910-d573-11e9-a407-cb1d70a57ae7/url',
+      query: {}
+    },
+    responseTime: 146
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/0f7c9910-d573-11e9-a407-cb1d70a57ae7/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/0f7c9910-d573-11e9-a407-cb1d70a57ae7/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:22458',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/0f7c9910-d573-11e9-a407-cb1d70a57ae7/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'POST ' +
+    '/session/0f7c9910-d573-11e9-a407-cb1d70a57ae7/element/0f9fd880-d573-11e9-a407-cb1d70a57ae7/click ' +
+    '200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/0f7c9910-d573-11e9-a407-cb1d70a57ae7/element/0f9fd880-d573-11e9-a407-cb1d70a57ae7/click',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '50',
+        host: 'localhost:22458',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/0f7c9910-d573-11e9-a407-cb1d70a57ae7/element/0f9fd880-d573-11e9-a407-cb1d70a57ae7/click',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'GET ' +
+    '/session/0f7c9910-d573-11e9-a407-cb1d70a57ae7/element/0f9fd880-d573-11e9-a407-cb1d70a57ae7/text ' +
+    '200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/0f7c9910-d573-11e9-a407-cb1d70a57ae7/element/0f9fd880-d573-11e9-a407-cb1d70a57ae7/text',
+      headers: {
+        'cache-control': 'no-cache',
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        host: 'localhost:22458',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/session/0f7c9910-d573-11e9-a407-cb1d70a57ae7/element/0f9fd880-d573-11e9-a407-cb1d70a57ae7/text',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'DELETE /session/0f7c9910-d573-11e9-a407-cb1d70a57ae7 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/0f7c9910-d573-11e9-a407-cb1d70a57ae7',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-length': '0',
+        host: 'localhost:22458',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/session/0f7c9910-d573-11e9-a407-cb1d70a57ae7',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 3ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:32422',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 5ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '233',
+        host: 'localhost:32422',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 5
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/35ba2de0-d573-11e9-9f56-1535d56aec13/url 200 135ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/35ba2de0-d573-11e9-9f56-1535d56aec13/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '47',
+        host: 'localhost:32422',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/35ba2de0-d573-11e9-9f56-1535d56aec13/url',
+      query: {}
+    },
+    responseTime: 135
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/35ba2de0-d573-11e9-9f56-1535d56aec13/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/35ba2de0-d573-11e9-9f56-1535d56aec13/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:32422',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/35ba2de0-d573-11e9-9f56-1535d56aec13/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'POST ' +
+    '/session/35ba2de0-d573-11e9-9f56-1535d56aec13/element/35dc0dc0-d573-11e9-9f56-1535d56aec13/click ' +
+    '200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/35ba2de0-d573-11e9-9f56-1535d56aec13/element/35dc0dc0-d573-11e9-9f56-1535d56aec13/click',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '50',
+        host: 'localhost:32422',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/35ba2de0-d573-11e9-9f56-1535d56aec13/element/35dc0dc0-d573-11e9-9f56-1535d56aec13/click',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'GET ' +
+    '/session/35ba2de0-d573-11e9-9f56-1535d56aec13/element/35dc0dc0-d573-11e9-9f56-1535d56aec13/text ' +
+    '200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/35ba2de0-d573-11e9-9f56-1535d56aec13/element/35dc0dc0-d573-11e9-9f56-1535d56aec13/text',
+      headers: {
+        'cache-control': 'no-cache',
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        host: 'localhost:32422',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/session/35ba2de0-d573-11e9-9f56-1535d56aec13/element/35dc0dc0-d573-11e9-9f56-1535d56aec13/text',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'DELETE /session/35ba2de0-d573-11e9-9f56-1535d56aec13 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/35ba2de0-d573-11e9-9f56-1535d56aec13',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-length': '0',
+        host: 'localhost:32422',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/session/35ba2de0-d573-11e9-9f56-1535d56aec13',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 3ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:2748',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 4ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '233',
+        host: 'localhost:2748',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 4
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/33858f10-d57d-11e9-9636-cf206793200f/url 200 156ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/33858f10-d57d-11e9-9636-cf206793200f/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '47',
+        host: 'localhost:2748',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/33858f10-d57d-11e9-9636-cf206793200f/url',
+      query: {}
+    },
+    responseTime: 156
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/33858f10-d57d-11e9-9636-cf206793200f/element 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/33858f10-d57d-11e9-9636-cf206793200f/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:2748',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/33858f10-d57d-11e9-9636-cf206793200f/element',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST ' +
+    '/session/33858f10-d57d-11e9-9636-cf206793200f/element/33aaca50-d57d-11e9-9636-cf206793200f/click ' +
+    '200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/33858f10-d57d-11e9-9636-cf206793200f/element/33aaca50-d57d-11e9-9636-cf206793200f/click',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '50',
+        host: 'localhost:2748',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/33858f10-d57d-11e9-9636-cf206793200f/element/33aaca50-d57d-11e9-9636-cf206793200f/click',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'GET ' +
+    '/session/33858f10-d57d-11e9-9636-cf206793200f/element/33aaca50-d57d-11e9-9636-cf206793200f/text ' +
+    '200 0ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/33858f10-d57d-11e9-9636-cf206793200f/element/33aaca50-d57d-11e9-9636-cf206793200f/text',
+      headers: {
+        'cache-control': 'no-cache',
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        host: 'localhost:2748',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/session/33858f10-d57d-11e9-9636-cf206793200f/element/33aaca50-d57d-11e9-9636-cf206793200f/text',
+      query: {}
+    },
+    responseTime: 0
+  }
+}
+{
+  level: 'info',
+  message: 'DELETE /session/33858f10-d57d-11e9-9636-cf206793200f 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/33858f10-d57d-11e9-9636-cf206793200f',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-length': '0',
+        host: 'localhost:2748',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/session/33858f10-d57d-11e9-9636-cf206793200f',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:24384',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 4ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '233',
+        host: 'localhost:24384',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 4
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/0afd0360-d57e-11e9-9881-a3adcaeb7ba4/url 200 123ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/0afd0360-d57e-11e9-9881-a3adcaeb7ba4/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '47',
+        host: 'localhost:24384',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/0afd0360-d57e-11e9-9881-a3adcaeb7ba4/url',
+      query: {}
+    },
+    responseTime: 123
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/0afd0360-d57e-11e9-9881-a3adcaeb7ba4/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/0afd0360-d57e-11e9-9881-a3adcaeb7ba4/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:24384',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/0afd0360-d57e-11e9-9881-a3adcaeb7ba4/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'POST ' +
+    '/session/0afd0360-d57e-11e9-9881-a3adcaeb7ba4/element/0b1d5ca0-d57e-11e9-9881-a3adcaeb7ba4/click ' +
+    '200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/0afd0360-d57e-11e9-9881-a3adcaeb7ba4/element/0b1d5ca0-d57e-11e9-9881-a3adcaeb7ba4/click',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '50',
+        host: 'localhost:24384',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/0afd0360-d57e-11e9-9881-a3adcaeb7ba4/element/0b1d5ca0-d57e-11e9-9881-a3adcaeb7ba4/click',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'GET ' +
+    '/session/0afd0360-d57e-11e9-9881-a3adcaeb7ba4/element/0b1d5ca0-d57e-11e9-9881-a3adcaeb7ba4/text ' +
+    '200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/0afd0360-d57e-11e9-9881-a3adcaeb7ba4/element/0b1d5ca0-d57e-11e9-9881-a3adcaeb7ba4/text',
+      headers: {
+        'cache-control': 'no-cache',
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        host: 'localhost:24384',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/session/0afd0360-d57e-11e9-9881-a3adcaeb7ba4/element/0b1d5ca0-d57e-11e9-9881-a3adcaeb7ba4/text',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/0afd0360-d57e-11e9-9881-a3adcaeb7ba4/actions 404 1ms',
+  meta: {
+    res: { statusCode: 404 },
+    req: {
+      url: '/session/0afd0360-d57e-11e9-9881-a3adcaeb7ba4/actions',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '780',
+        host: 'localhost:24384',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/0afd0360-d57e-11e9-9881-a3adcaeb7ba4/actions',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:14135',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 8ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '311',
+        host: 'localhost:14135',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 8
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/263626f0-d594-11e9-81f8-6d013e33b272/url 200 152ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/263626f0-d594-11e9-81f8-6d013e33b272/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '47',
+        host: 'localhost:14135',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/263626f0-d594-11e9-81f8-6d013e33b272/url',
+      query: {}
+    },
+    responseTime: 152
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/263626f0-d594-11e9-81f8-6d013e33b272/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/263626f0-d594-11e9-81f8-6d013e33b272/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:14135',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/263626f0-d594-11e9-81f8-6d013e33b272/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'POST ' +
+    '/session/263626f0-d594-11e9-81f8-6d013e33b272/element/265b6230-d594-11e9-81f8-6d013e33b272/click ' +
+    '200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/263626f0-d594-11e9-81f8-6d013e33b272/element/265b6230-d594-11e9-81f8-6d013e33b272/click',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '50',
+        host: 'localhost:14135',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/263626f0-d594-11e9-81f8-6d013e33b272/element/265b6230-d594-11e9-81f8-6d013e33b272/click',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'GET ' +
+    '/session/263626f0-d594-11e9-81f8-6d013e33b272/element/265b6230-d594-11e9-81f8-6d013e33b272/text ' +
+    '200 0ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/263626f0-d594-11e9-81f8-6d013e33b272/element/265b6230-d594-11e9-81f8-6d013e33b272/text',
+      headers: {
+        'cache-control': 'no-cache',
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        host: 'localhost:14135',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/session/263626f0-d594-11e9-81f8-6d013e33b272/element/265b6230-d594-11e9-81f8-6d013e33b272/text',
+      query: {}
+    },
+    responseTime: 0
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/263626f0-d594-11e9-81f8-6d013e33b272/actions 404 0ms',
+  meta: {
+    res: { statusCode: 404 },
+    req: {
+      url: '/session/263626f0-d594-11e9-81f8-6d013e33b272/actions',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '780',
+        host: 'localhost:14135',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/263626f0-d594-11e9-81f8-6d013e33b272/actions',
+      query: {}
+    },
+    responseTime: 0
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:24149',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 8ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '311',
+        host: 'localhost:24149',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 8
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/6a82bda0-d594-11e9-8144-47150d16f34d/url 200 145ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/6a82bda0-d594-11e9-8144-47150d16f34d/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '47',
+        host: 'localhost:24149',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/6a82bda0-d594-11e9-8144-47150d16f34d/url',
+      query: {}
+    },
+    responseTime: 145
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/6a82bda0-d594-11e9-8144-47150d16f34d/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/6a82bda0-d594-11e9-8144-47150d16f34d/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:24149',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/6a82bda0-d594-11e9-8144-47150d16f34d/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'POST ' +
+    '/session/6a82bda0-d594-11e9-8144-47150d16f34d/element/6aa6e770-d594-11e9-8144-47150d16f34d/click ' +
+    '500 4ms',
+  meta: {
+    res: { statusCode: 500 },
+    req: {
+      url: '/session/6a82bda0-d594-11e9-8144-47150d16f34d/element/6aa6e770-d594-11e9-8144-47150d16f34d/click',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '50',
+        host: 'localhost:24149',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/6a82bda0-d594-11e9-8144-47150d16f34d/element/6aa6e770-d594-11e9-8144-47150d16f34d/click',
+      query: {}
+    },
+    responseTime: 4
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:8727',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 4ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '233',
+        host: 'localhost:8727',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 4
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/ac805b40-d594-11e9-8dc1-5d1755afcfbe/url 200 125ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/ac805b40-d594-11e9-8dc1-5d1755afcfbe/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '47',
+        host: 'localhost:8727',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/ac805b40-d594-11e9-8dc1-5d1755afcfbe/url',
+      query: {}
+    },
+    responseTime: 125
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/ac805b40-d594-11e9-8dc1-5d1755afcfbe/element 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/ac805b40-d594-11e9-8dc1-5d1755afcfbe/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:8727',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/ac805b40-d594-11e9-8dc1-5d1755afcfbe/element',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST ' +
+    '/session/ac805b40-d594-11e9-8dc1-5d1755afcfbe/element/aca08d70-d594-11e9-8dc1-5d1755afcfbe/click ' +
+    '500 3ms',
+  meta: {
+    res: { statusCode: 500 },
+    req: {
+      url: '/session/ac805b40-d594-11e9-8dc1-5d1755afcfbe/element/aca08d70-d594-11e9-8dc1-5d1755afcfbe/click',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '50',
+        host: 'localhost:8727',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/ac805b40-d594-11e9-8dc1-5d1755afcfbe/element/aca08d70-d594-11e9-8dc1-5d1755afcfbe/click',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:4503',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 12ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '311',
+        host: 'localhost:4503',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 12
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/e7cf4f30-d594-11e9-a059-d73dbcafeb27/url 200 137ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/e7cf4f30-d594-11e9-a059-d73dbcafeb27/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '47',
+        host: 'localhost:4503',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/e7cf4f30-d594-11e9-a059-d73dbcafeb27/url',
+      query: {}
+    },
+    responseTime: 137
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/e7cf4f30-d594-11e9-a059-d73dbcafeb27/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/e7cf4f30-d594-11e9-a059-d73dbcafeb27/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:4503',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/e7cf4f30-d594-11e9-a059-d73dbcafeb27/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'POST ' +
+    '/session/e7cf4f30-d594-11e9-a059-d73dbcafeb27/element/e7f2b5b0-d594-11e9-a059-d73dbcafeb27/click ' +
+    '500 4ms',
+  meta: {
+    res: { statusCode: 500 },
+    req: {
+      url: '/session/e7cf4f30-d594-11e9-a059-d73dbcafeb27/element/e7f2b5b0-d594-11e9-a059-d73dbcafeb27/click',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '50',
+        host: 'localhost:4503',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/e7cf4f30-d594-11e9-a059-d73dbcafeb27/element/e7f2b5b0-d594-11e9-a059-d73dbcafeb27/click',
+      query: {}
+    },
+    responseTime: 4
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 3ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:23858',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 9ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '311',
+        host: 'localhost:23858',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 9
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/e5201a30-d8b4-11e9-8b3f-b14a2d2b859d/element 404 9ms',
+  meta: {
+    res: { statusCode: 404 },
+    req: {
+      url: '/session/e5201a30-d8b4-11e9-8b3f-b14a2d2b859d/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '46',
+        host: 'localhost:23858',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/e5201a30-d8b4-11e9-8b3f-b14a2d2b859d/element',
+      query: {}
+    },
+    responseTime: 9
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:4306',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 8ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '311',
+        host: 'localhost:4306',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 8
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/4cd1aa40-d8b5-11e9-9db9-5b0162467e3c/element 404 7ms',
+  meta: {
+    res: { statusCode: 404 },
+    req: {
+      url: '/session/4cd1aa40-d8b5-11e9-9db9-5b0162467e3c/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:4306',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/4cd1aa40-d8b5-11e9-9db9-5b0162467e3c/element',
+      query: {}
+    },
+    responseTime: 7
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:1148',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 10ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '311',
+        host: 'localhost:1148',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 10
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/6d86ecf0-d8b5-11e9-b32d-67bb04ef46cb/url 200 158ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/6d86ecf0-d8b5-11e9-b32d-67bb04ef46cb/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '47',
+        host: 'localhost:1148',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/6d86ecf0-d8b5-11e9-b32d-67bb04ef46cb/url',
+      query: {}
+    },
+    responseTime: 158
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/6d86ecf0-d8b5-11e9-b32d-67bb04ef46cb/element 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/6d86ecf0-d8b5-11e9-b32d-67bb04ef46cb/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:1148',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/6d86ecf0-d8b5-11e9-b32d-67bb04ef46cb/element',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/6d86ecf0-d8b5-11e9-b32d-67bb04ef46cb/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/6d86ecf0-d8b5-11e9-b32d-67bb04ef46cb/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:1148',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/6d86ecf0-d8b5-11e9-b32d-67bb04ef46cb/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'DELETE /session/6d86ecf0-d8b5-11e9-b32d-67bb04ef46cb 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/6d86ecf0-d8b5-11e9-b32d-67bb04ef46cb',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-length': '0',
+        host: 'localhost:1148',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/session/6d86ecf0-d8b5-11e9-b32d-67bb04ef46cb',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:31340',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 8ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '311',
+        host: 'localhost:31340',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 8
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/820f9410-d8b5-11e9-9cff-f1725f5da09c/url 200 136ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/820f9410-d8b5-11e9-9cff-f1725f5da09c/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '47',
+        host: 'localhost:31340',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/820f9410-d8b5-11e9-9cff-f1725f5da09c/url',
+      query: {}
+    },
+    responseTime: 136
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/820f9410-d8b5-11e9-9cff-f1725f5da09c/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/820f9410-d8b5-11e9-9cff-f1725f5da09c/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:31340',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/820f9410-d8b5-11e9-9cff-f1725f5da09c/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/820f9410-d8b5-11e9-9cff-f1725f5da09c/execute/sync 200 8ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/820f9410-d8b5-11e9-9cff-f1725f5da09c/execute/sync',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '209',
+        host: 'localhost:31340',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/820f9410-d8b5-11e9-9cff-f1725f5da09c/execute/sync',
+      query: {}
+    },
+    responseTime: 8
+  }
+}
+{
+  level: 'info',
+  message: 'DELETE /session/820f9410-d8b5-11e9-9cff-f1725f5da09c 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/820f9410-d8b5-11e9-9cff-f1725f5da09c',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-length': '0',
+        host: 'localhost:31340',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/session/820f9410-d8b5-11e9-9cff-f1725f5da09c',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:11702',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 7ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '311',
+        host: 'localhost:11702',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 7
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/5e285c40-d8be-11e9-95be-fde1b59fcc84/url 200 175ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/5e285c40-d8be-11e9-95be-fde1b59fcc84/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '47',
+        host: 'localhost:11702',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/5e285c40-d8be-11e9-95be-fde1b59fcc84/url',
+      query: {}
+    },
+    responseTime: 175
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/5e285c40-d8be-11e9-95be-fde1b59fcc84/element 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/5e285c40-d8be-11e9-95be-fde1b59fcc84/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:11702',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/5e285c40-d8be-11e9-95be-fde1b59fcc84/element',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/5e285c40-d8be-11e9-95be-fde1b59fcc84/execute/sync 200 11ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/5e285c40-d8be-11e9-95be-fde1b59fcc84/execute/sync',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '209',
+        host: 'localhost:11702',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/5e285c40-d8be-11e9-95be-fde1b59fcc84/execute/sync',
+      query: {}
+    },
+    responseTime: 11
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/5e285c40-d8be-11e9-95be-fde1b59fcc84/execute/sync 500 8ms',
+  meta: {
+    res: { statusCode: 500 },
+    req: {
+      url: '/session/5e285c40-d8be-11e9-95be-fde1b59fcc84/execute/sync',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '58',
+        host: 'localhost:11702',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/5e285c40-d8be-11e9-95be-fde1b59fcc84/execute/sync',
+      query: {}
+    },
+    responseTime: 8
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 3ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:5299',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 8ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '311',
+        host: 'localhost:5299',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 8
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/6df0e340-d8be-11e9-b402-f5fe2eb7a838/url 200 136ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/6df0e340-d8be-11e9-b402-f5fe2eb7a838/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '47',
+        host: 'localhost:5299',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/6df0e340-d8be-11e9-b402-f5fe2eb7a838/url',
+      query: {}
+    },
+    responseTime: 136
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/6df0e340-d8be-11e9-b402-f5fe2eb7a838/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/6df0e340-d8be-11e9-b402-f5fe2eb7a838/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:5299',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/6df0e340-d8be-11e9-b402-f5fe2eb7a838/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/6df0e340-d8be-11e9-b402-f5fe2eb7a838/execute/sync 200 10ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/6df0e340-d8be-11e9-b402-f5fe2eb7a838/execute/sync',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '209',
+        host: 'localhost:5299',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/6df0e340-d8be-11e9-b402-f5fe2eb7a838/execute/sync',
+      query: {}
+    },
+    responseTime: 10
+  }
+}
+{
+  level: 'info',
+  message: 'DELETE /session/6df0e340-d8be-11e9-b402-f5fe2eb7a838 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/6df0e340-d8be-11e9-b402-f5fe2eb7a838',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-length': '0',
+        host: 'localhost:5299',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/session/6df0e340-d8be-11e9-b402-f5fe2eb7a838',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:4565',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 9ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '311',
+        host: 'localhost:4565',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 9
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/74bcb1e0-d8be-11e9-86ed-2790e55e4784/url 200 147ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/74bcb1e0-d8be-11e9-86ed-2790e55e4784/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '47',
+        host: 'localhost:4565',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/74bcb1e0-d8be-11e9-86ed-2790e55e4784/url',
+      query: {}
+    },
+    responseTime: 147
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/74bcb1e0-d8be-11e9-86ed-2790e55e4784/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/74bcb1e0-d8be-11e9-86ed-2790e55e4784/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:4565',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/74bcb1e0-d8be-11e9-86ed-2790e55e4784/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/74bcb1e0-d8be-11e9-86ed-2790e55e4784/execute/sync 200 7ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/74bcb1e0-d8be-11e9-86ed-2790e55e4784/execute/sync',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '209',
+        host: 'localhost:4565',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/74bcb1e0-d8be-11e9-86ed-2790e55e4784/execute/sync',
+      query: {}
+    },
+    responseTime: 7
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/74bcb1e0-d8be-11e9-86ed-2790e55e4784/execute/sync 200 4ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/74bcb1e0-d8be-11e9-86ed-2790e55e4784/execute/sync',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '209',
+        host: 'localhost:4565',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/74bcb1e0-d8be-11e9-86ed-2790e55e4784/execute/sync',
+      query: {}
+    },
+    responseTime: 4
+  }
+}
+{
+  level: 'info',
+  message: 'DELETE /session/74bcb1e0-d8be-11e9-86ed-2790e55e4784 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/74bcb1e0-d8be-11e9-86ed-2790e55e4784',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-length': '0',
+        host: 'localhost:4565',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/session/74bcb1e0-d8be-11e9-86ed-2790e55e4784',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:13185',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 9ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '311',
+        host: 'localhost:13185',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 9
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/e2c85100-d984-11e9-b24f-f1b39cb9c17e/url 200 108ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/e2c85100-d984-11e9-b24f-f1b39cb9c17e/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '52',
+        host: 'localhost:13185',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/e2c85100-d984-11e9-b24f-f1b39cb9c17e/url',
+      query: {}
+    },
+    responseTime: 108
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/e2c85100-d984-11e9-b24f-f1b39cb9c17e/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/e2c85100-d984-11e9-b24f-f1b39cb9c17e/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '52',
+        host: 'localhost:13185',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/e2c85100-d984-11e9-b24f-f1b39cb9c17e/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'POST ' +
+    '/session/e2c85100-d984-11e9-b24f-f1b39cb9c17e/element/e2e74ab0-d984-11e9-b24f-f1b39cb9c17e/click ' +
+    '200 5ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/e2c85100-d984-11e9-b24f-f1b39cb9c17e/element/e2e74ab0-d984-11e9-b24f-f1b39cb9c17e/click',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '50',
+        host: 'localhost:13185',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/e2c85100-d984-11e9-b24f-f1b39cb9c17e/element/e2e74ab0-d984-11e9-b24f-f1b39cb9c17e/click',
+      query: {}
+    },
+    responseTime: 5
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/e2c85100-d984-11e9-b24f-f1b39cb9c17e/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/e2c85100-d984-11e9-b24f-f1b39cb9c17e/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:13185',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/e2c85100-d984-11e9-b24f-f1b39cb9c17e/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'GET ' +
+    '/session/e2c85100-d984-11e9-b24f-f1b39cb9c17e/element/e2eaa610-d984-11e9-b24f-f1b39cb9c17e/text ' +
+    '200 0ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/e2c85100-d984-11e9-b24f-f1b39cb9c17e/element/e2eaa610-d984-11e9-b24f-f1b39cb9c17e/text',
+      headers: {
+        'cache-control': 'no-cache',
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        host: 'localhost:13185',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/session/e2c85100-d984-11e9-b24f-f1b39cb9c17e/element/e2eaa610-d984-11e9-b24f-f1b39cb9c17e/text',
+      query: {}
+    },
+    responseTime: 0
+  }
+}
+{
+  level: 'info',
+  message: 'DELETE /session/e2c85100-d984-11e9-b24f-f1b39cb9c17e 200 3ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/e2c85100-d984-11e9-b24f-f1b39cb9c17e',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-length': '0',
+        host: 'localhost:13185',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/session/e2c85100-d984-11e9-b24f-f1b39cb9c17e',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:17167',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 7ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '311',
+        host: 'localhost:17167',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 7
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/ba64a080-d987-11e9-93a7-19457c116e27/url 200 98ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/ba64a080-d987-11e9-93a7-19457c116e27/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '52',
+        host: 'localhost:17167',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/ba64a080-d987-11e9-93a7-19457c116e27/url',
+      query: {}
+    },
+    responseTime: 98
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/ba64a080-d987-11e9-93a7-19457c116e27/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/ba64a080-d987-11e9-93a7-19457c116e27/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '52',
+        host: 'localhost:17167',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/ba64a080-d987-11e9-93a7-19457c116e27/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'POST ' +
+    '/session/ba64a080-d987-11e9-93a7-19457c116e27/element/ba848490-d987-11e9-93a7-19457c116e27/click ' +
+    '200 3ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/ba64a080-d987-11e9-93a7-19457c116e27/element/ba848490-d987-11e9-93a7-19457c116e27/click',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '50',
+        host: 'localhost:17167',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/ba64a080-d987-11e9-93a7-19457c116e27/element/ba848490-d987-11e9-93a7-19457c116e27/click',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/ba64a080-d987-11e9-93a7-19457c116e27/element 200 0ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/ba64a080-d987-11e9-93a7-19457c116e27/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:17167',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/ba64a080-d987-11e9-93a7-19457c116e27/element',
+      query: {}
+    },
+    responseTime: 0
+  }
+}
+{
+  level: 'info',
+  message: 'GET ' +
+    '/session/ba64a080-d987-11e9-93a7-19457c116e27/element/ba871ca0-d987-11e9-93a7-19457c116e27/text ' +
+    '200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/ba64a080-d987-11e9-93a7-19457c116e27/element/ba871ca0-d987-11e9-93a7-19457c116e27/text',
+      headers: {
+        'cache-control': 'no-cache',
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        host: 'localhost:17167',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/session/ba64a080-d987-11e9-93a7-19457c116e27/element/ba871ca0-d987-11e9-93a7-19457c116e27/text',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'DELETE /session/ba64a080-d987-11e9-93a7-19457c116e27 200 3ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/ba64a080-d987-11e9-93a7-19457c116e27',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-length': '0',
+        host: 'localhost:17167',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/session/ba64a080-d987-11e9-93a7-19457c116e27',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/11.0.3',
+        host: 'localhost:14992',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 8ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '311',
+        host: 'localhost:14992',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 8
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/1c2b0880-d989-11e9-bc47-7da21097f083/url 200 114ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/1c2b0880-d989-11e9-bc47-7da21097f083/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '52',
+        host: 'localhost:14992',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/1c2b0880-d989-11e9-bc47-7da21097f083/url',
+      query: {}
+    },
+    responseTime: 114
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/1c2b0880-d989-11e9-bc47-7da21097f083/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/1c2b0880-d989-11e9-bc47-7da21097f083/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '52',
+        host: 'localhost:14992',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/1c2b0880-d989-11e9-bc47-7da21097f083/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'POST ' +
+    '/session/1c2b0880-d989-11e9-bc47-7da21097f083/element/1c4a0230-d989-11e9-bc47-7da21097f083/click ' +
+    '200 4ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/1c2b0880-d989-11e9-bc47-7da21097f083/element/1c4a0230-d989-11e9-bc47-7da21097f083/click',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '50',
+        host: 'localhost:14992',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/1c2b0880-d989-11e9-bc47-7da21097f083/element/1c4a0230-d989-11e9-bc47-7da21097f083/click',
+      query: {}
+    },
+    responseTime: 4
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/1c2b0880-d989-11e9-bc47-7da21097f083/element 200 0ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/1c2b0880-d989-11e9-bc47-7da21097f083/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '45',
+        host: 'localhost:14992',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/1c2b0880-d989-11e9-bc47-7da21097f083/element',
+      query: {}
+    },
+    responseTime: 0
+  }
+}
+{
+  level: 'info',
+  message: 'GET ' +
+    '/session/1c2b0880-d989-11e9-bc47-7da21097f083/element/1c4c9a40-d989-11e9-bc47-7da21097f083/text ' +
+    '200 0ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/1c2b0880-d989-11e9-bc47-7da21097f083/element/1c4c9a40-d989-11e9-bc47-7da21097f083/text',
+      headers: {
+        'cache-control': 'no-cache',
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        host: 'localhost:14992',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/session/1c2b0880-d989-11e9-bc47-7da21097f083/element/1c4c9a40-d989-11e9-bc47-7da21097f083/text',
+      query: {}
+    },
+    responseTime: 0
+  }
+}
+{
+  level: 'info',
+  message: 'DELETE /session/1c2b0880-d989-11e9-bc47-7da21097f083 200 3ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/1c2b0880-d989-11e9-bc47-7da21097f083',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java unix)',
+        'content-length': '0',
+        host: 'localhost:14992',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/session/1c2b0880-d989-11e9-bc47-7da21097f083',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 6ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/1.8.0_201',
+        host: 'localhost:5902',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 6
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 8ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '311',
+        host: 'localhost:5902',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 8
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/7b59cb70-da97-11e9-9bf6-699e01bd4bc1/url 200 117ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/7b59cb70-da97-11e9-9bf6-699e01bd4bc1/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '63',
+        host: 'localhost:5902',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/7b59cb70-da97-11e9-9bf6-699e01bd4bc1/url',
+      query: {}
+    },
+    responseTime: 117
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/7b59cb70-da97-11e9-9bf6-699e01bd4bc1/element 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/7b59cb70-da97-11e9-9bf6-699e01bd4bc1/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '56',
+        host: 'localhost:5902',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/7b59cb70-da97-11e9-9bf6-699e01bd4bc1/element',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST ' +
+    '/session/7b59cb70-da97-11e9-9bf6-699e01bd4bc1/element/7b73e320-da97-11e9-9bf6-699e01bd4bc1/click ' +
+    '200 3ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/7b59cb70-da97-11e9-9bf6-699e01bd4bc1/element/7b73e320-da97-11e9-9bf6-699e01bd4bc1/click',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '50',
+        host: 'localhost:5902',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/7b59cb70-da97-11e9-9bf6-699e01bd4bc1/element/7b73e320-da97-11e9-9bf6-699e01bd4bc1/click',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/7b59cb70-da97-11e9-9bf6-699e01bd4bc1/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/7b59cb70-da97-11e9-9bf6-699e01bd4bc1/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '54',
+        host: 'localhost:5902',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/7b59cb70-da97-11e9-9bf6-699e01bd4bc1/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'GET ' +
+    '/session/7b59cb70-da97-11e9-9bf6-699e01bd4bc1/element/7b787700-da97-11e9-9bf6-699e01bd4bc1/text ' +
+    '200 0ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/7b59cb70-da97-11e9-9bf6-699e01bd4bc1/element/7b787700-da97-11e9-9bf6-699e01bd4bc1/text',
+      headers: {
+        'cache-control': 'no-cache',
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        host: 'localhost:5902',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/session/7b59cb70-da97-11e9-9bf6-699e01bd4bc1/element/7b787700-da97-11e9-9bf6-699e01bd4bc1/text',
+      query: {}
+    },
+    responseTime: 0
+  }
+}
+{
+  level: 'info',
+  message: 'DELETE /session/7b59cb70-da97-11e9-9bf6-699e01bd4bc1 200 3ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/7b59cb70-da97-11e9-9bf6-699e01bd4bc1',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-length': '0',
+        host: 'localhost:5902',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/session/7b59cb70-da97-11e9-9bf6-699e01bd4bc1',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/1.8.0_201',
+        host: 'localhost:38209',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 9ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '311',
+        host: 'localhost:38209',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 9
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/de465200-da9a-11e9-9800-a70cb3f24c48/url 200 145ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/de465200-da9a-11e9-9800-a70cb3f24c48/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '63',
+        host: 'localhost:38209',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/de465200-da9a-11e9-9800-a70cb3f24c48/url',
+      query: {}
+    },
+    responseTime: 145
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/de465200-da9a-11e9-9800-a70cb3f24c48/element 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/de465200-da9a-11e9-9800-a70cb3f24c48/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '56',
+        host: 'localhost:38209',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/de465200-da9a-11e9-9800-a70cb3f24c48/element',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST ' +
+    '/session/de465200-da9a-11e9-9800-a70cb3f24c48/element/de6599d0-da9a-11e9-9800-a70cb3f24c48/click ' +
+    '200 4ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/de465200-da9a-11e9-9800-a70cb3f24c48/element/de6599d0-da9a-11e9-9800-a70cb3f24c48/click',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '50',
+        host: 'localhost:38209',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/de465200-da9a-11e9-9800-a70cb3f24c48/element/de6599d0-da9a-11e9-9800-a70cb3f24c48/click',
+      query: {}
+    },
+    responseTime: 4
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/de465200-da9a-11e9-9800-a70cb3f24c48/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/de465200-da9a-11e9-9800-a70cb3f24c48/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '54',
+        host: 'localhost:38209',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/de465200-da9a-11e9-9800-a70cb3f24c48/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'GET ' +
+    '/session/de465200-da9a-11e9-9800-a70cb3f24c48/element/de67e3c0-da9a-11e9-9800-a70cb3f24c48/text ' +
+    '200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/de465200-da9a-11e9-9800-a70cb3f24c48/element/de67e3c0-da9a-11e9-9800-a70cb3f24c48/text',
+      headers: {
+        'cache-control': 'no-cache',
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        host: 'localhost:38209',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/session/de465200-da9a-11e9-9800-a70cb3f24c48/element/de67e3c0-da9a-11e9-9800-a70cb3f24c48/text',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'DELETE /session/de465200-da9a-11e9-9800-a70cb3f24c48 200 3ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/de465200-da9a-11e9-9800-a70cb3f24c48',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-length': '0',
+        host: 'localhost:38209',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/session/de465200-da9a-11e9-9800-a70cb3f24c48',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 3ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/1.8.0_201',
+        host: 'localhost:25887',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 9ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '311',
+        host: 'localhost:25887',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 9
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/f53f83f0-da9a-11e9-a1d3-811bf80392bb/url 200 128ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/f53f83f0-da9a-11e9-a1d3-811bf80392bb/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '63',
+        host: 'localhost:25887',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/f53f83f0-da9a-11e9-a1d3-811bf80392bb/url',
+      query: {}
+    },
+    responseTime: 128
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/f53f83f0-da9a-11e9-a1d3-811bf80392bb/element 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/f53f83f0-da9a-11e9-a1d3-811bf80392bb/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '56',
+        host: 'localhost:25887',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/f53f83f0-da9a-11e9-a1d3-811bf80392bb/element',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST ' +
+    '/session/f53f83f0-da9a-11e9-a1d3-811bf80392bb/element/f55b9770-da9a-11e9-a1d3-811bf80392bb/click ' +
+    '200 4ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/f53f83f0-da9a-11e9-a1d3-811bf80392bb/element/f55b9770-da9a-11e9-a1d3-811bf80392bb/click',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '50',
+        host: 'localhost:25887',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/f53f83f0-da9a-11e9-a1d3-811bf80392bb/element/f55b9770-da9a-11e9-a1d3-811bf80392bb/click',
+      query: {}
+    },
+    responseTime: 4
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/f53f83f0-da9a-11e9-a1d3-811bf80392bb/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/f53f83f0-da9a-11e9-a1d3-811bf80392bb/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '54',
+        host: 'localhost:25887',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/f53f83f0-da9a-11e9-a1d3-811bf80392bb/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'GET ' +
+    '/session/f53f83f0-da9a-11e9-a1d3-811bf80392bb/element/f55d9340-da9a-11e9-a1d3-811bf80392bb/text ' +
+    '200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/f53f83f0-da9a-11e9-a1d3-811bf80392bb/element/f55d9340-da9a-11e9-a1d3-811bf80392bb/text',
+      headers: {
+        'cache-control': 'no-cache',
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        host: 'localhost:25887',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/session/f53f83f0-da9a-11e9-a1d3-811bf80392bb/element/f55d9340-da9a-11e9-a1d3-811bf80392bb/text',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'DELETE /session/f53f83f0-da9a-11e9-a1d3-811bf80392bb 200 3ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/f53f83f0-da9a-11e9-a1d3-811bf80392bb',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-length': '0',
+        host: 'localhost:25887',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/session/f53f83f0-da9a-11e9-a1d3-811bf80392bb',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/1.8.0_201',
+        host: 'localhost:9064',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 8ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '311',
+        host: 'localhost:9064',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 8
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/f95c1110-da9a-11e9-8d7d-bd73ea97203f/url 200 124ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/f95c1110-da9a-11e9-8d7d-bd73ea97203f/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '63',
+        host: 'localhost:9064',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/f95c1110-da9a-11e9-8d7d-bd73ea97203f/url',
+      query: {}
+    },
+    responseTime: 124
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/f95c1110-da9a-11e9-8d7d-bd73ea97203f/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/f95c1110-da9a-11e9-8d7d-bd73ea97203f/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '56',
+        host: 'localhost:9064',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/f95c1110-da9a-11e9-8d7d-bd73ea97203f/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'POST ' +
+    '/session/f95c1110-da9a-11e9-8d7d-bd73ea97203f/element/f9771320-da9a-11e9-8d7d-bd73ea97203f/click ' +
+    '200 4ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/f95c1110-da9a-11e9-8d7d-bd73ea97203f/element/f9771320-da9a-11e9-8d7d-bd73ea97203f/click',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '50',
+        host: 'localhost:9064',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/f95c1110-da9a-11e9-8d7d-bd73ea97203f/element/f9771320-da9a-11e9-8d7d-bd73ea97203f/click',
+      query: {}
+    },
+    responseTime: 4
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/f95c1110-da9a-11e9-8d7d-bd73ea97203f/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/f95c1110-da9a-11e9-8d7d-bd73ea97203f/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '54',
+        host: 'localhost:9064',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/f95c1110-da9a-11e9-8d7d-bd73ea97203f/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'GET ' +
+    '/session/f95c1110-da9a-11e9-8d7d-bd73ea97203f/element/f9798420-da9a-11e9-8d7d-bd73ea97203f/text ' +
+    '200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/f95c1110-da9a-11e9-8d7d-bd73ea97203f/element/f9798420-da9a-11e9-8d7d-bd73ea97203f/text',
+      headers: {
+        'cache-control': 'no-cache',
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        host: 'localhost:9064',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/session/f95c1110-da9a-11e9-8d7d-bd73ea97203f/element/f9798420-da9a-11e9-8d7d-bd73ea97203f/text',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'DELETE /session/f95c1110-da9a-11e9-8d7d-bd73ea97203f 200 3ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/f95c1110-da9a-11e9-8d7d-bd73ea97203f',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-length': '0',
+        host: 'localhost:9064',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/session/f95c1110-da9a-11e9-8d7d-bd73ea97203f',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 4ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/1.8.0_201',
+        host: 'localhost:18003',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 4
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 9ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '311',
+        host: 'localhost:18003',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 9
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/27c424b0-da9c-11e9-a8d5-bbd889ee5485/url 200 142ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/27c424b0-da9c-11e9-a8d5-bbd889ee5485/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '63',
+        host: 'localhost:18003',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/27c424b0-da9c-11e9-a8d5-bbd889ee5485/url',
+      query: {}
+    },
+    responseTime: 142
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/27c424b0-da9c-11e9-a8d5-bbd889ee5485/element 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/27c424b0-da9c-11e9-a8d5-bbd889ee5485/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '56',
+        host: 'localhost:18003',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/27c424b0-da9c-11e9-a8d5-bbd889ee5485/element',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST ' +
+    '/session/27c424b0-da9c-11e9-a8d5-bbd889ee5485/element/27e20cf0-da9c-11e9-a8d5-bbd889ee5485/click ' +
+    '200 4ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/27c424b0-da9c-11e9-a8d5-bbd889ee5485/element/27e20cf0-da9c-11e9-a8d5-bbd889ee5485/click',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '50',
+        host: 'localhost:18003',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/27c424b0-da9c-11e9-a8d5-bbd889ee5485/element/27e20cf0-da9c-11e9-a8d5-bbd889ee5485/click',
+      query: {}
+    },
+    responseTime: 4
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/27c424b0-da9c-11e9-a8d5-bbd889ee5485/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/27c424b0-da9c-11e9-a8d5-bbd889ee5485/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '54',
+        host: 'localhost:18003',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/27c424b0-da9c-11e9-a8d5-bbd889ee5485/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'GET ' +
+    '/session/27c424b0-da9c-11e9-a8d5-bbd889ee5485/element/27e4a500-da9c-11e9-a8d5-bbd889ee5485/text ' +
+    '200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/27c424b0-da9c-11e9-a8d5-bbd889ee5485/element/27e4a500-da9c-11e9-a8d5-bbd889ee5485/text',
+      headers: {
+        'cache-control': 'no-cache',
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        host: 'localhost:18003',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/session/27c424b0-da9c-11e9-a8d5-bbd889ee5485/element/27e4a500-da9c-11e9-a8d5-bbd889ee5485/text',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'DELETE /session/27c424b0-da9c-11e9-a8d5-bbd889ee5485 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/27c424b0-da9c-11e9-a8d5-bbd889ee5485',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-length': '0',
+        host: 'localhost:18003',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/session/27c424b0-da9c-11e9-a8d5-bbd889ee5485',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 3ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/1.8.0_201',
+        host: 'localhost:45551',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 14ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '311',
+        host: 'localhost:45551',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 14
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/56370330-da9c-11e9-9964-659e4ef63e0a/url 200 128ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/56370330-da9c-11e9-9964-659e4ef63e0a/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '63',
+        host: 'localhost:45551',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/56370330-da9c-11e9-9964-659e4ef63e0a/url',
+      query: {}
+    },
+    responseTime: 128
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/56370330-da9c-11e9-9964-659e4ef63e0a/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/56370330-da9c-11e9-9964-659e4ef63e0a/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '56',
+        host: 'localhost:45551',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/56370330-da9c-11e9-9964-659e4ef63e0a/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'POST ' +
+    '/session/56370330-da9c-11e9-9964-659e4ef63e0a/element/56549d50-da9c-11e9-9964-659e4ef63e0a/click ' +
+    '200 5ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/56370330-da9c-11e9-9964-659e4ef63e0a/element/56549d50-da9c-11e9-9964-659e4ef63e0a/click',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '50',
+        host: 'localhost:45551',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/56370330-da9c-11e9-9964-659e4ef63e0a/element/56549d50-da9c-11e9-9964-659e4ef63e0a/click',
+      query: {}
+    },
+    responseTime: 5
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/56370330-da9c-11e9-9964-659e4ef63e0a/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/56370330-da9c-11e9-9964-659e4ef63e0a/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '54',
+        host: 'localhost:45551',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/56370330-da9c-11e9-9964-659e4ef63e0a/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'GET ' +
+    '/session/56370330-da9c-11e9-9964-659e4ef63e0a/element/5656e740-da9c-11e9-9964-659e4ef63e0a/text ' +
+    '200 0ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/56370330-da9c-11e9-9964-659e4ef63e0a/element/5656e740-da9c-11e9-9964-659e4ef63e0a/text',
+      headers: {
+        'cache-control': 'no-cache',
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        host: 'localhost:45551',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/session/56370330-da9c-11e9-9964-659e4ef63e0a/element/5656e740-da9c-11e9-9964-659e4ef63e0a/text',
+      query: {}
+    },
+    responseTime: 0
+  }
+}
+{
+  level: 'info',
+  message: 'DELETE /session/56370330-da9c-11e9-9964-659e4ef63e0a 200 3ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/56370330-da9c-11e9-9964-659e4ef63e0a',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-length': '0',
+        host: 'localhost:45551',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/session/56370330-da9c-11e9-9964-659e4ef63e0a',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
+{
+  level: 'info',
+  message: 'GET /status 200 4ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/status',
+      headers: {
+        'user-agent': 'Java/1.8.0_201',
+        host: 'localhost:2432',
+        accept: 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/status',
+      query: {}
+    },
+    responseTime: 4
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session 200 9ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '311',
+        host: 'localhost:2432',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session',
+      query: {}
+    },
+    responseTime: 9
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/905391a0-da9c-11e9-895a-371ac375e4ef/url 200 149ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/905391a0-da9c-11e9-895a-371ac375e4ef/url',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '63',
+        host: 'localhost:2432',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/905391a0-da9c-11e9-895a-371ac375e4ef/url',
+      query: {}
+    },
+    responseTime: 149
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/905391a0-da9c-11e9-895a-371ac375e4ef/element 200 2ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/905391a0-da9c-11e9-895a-371ac375e4ef/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '56',
+        host: 'localhost:2432',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/905391a0-da9c-11e9-895a-371ac375e4ef/element',
+      query: {}
+    },
+    responseTime: 2
+  }
+}
+{
+  level: 'info',
+  message: 'POST ' +
+    '/session/905391a0-da9c-11e9-895a-371ac375e4ef/element/90752360-da9c-11e9-895a-371ac375e4ef/click ' +
+    '200 6ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/905391a0-da9c-11e9-895a-371ac375e4ef/element/90752360-da9c-11e9-895a-371ac375e4ef/click',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '50',
+        host: 'localhost:2432',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/905391a0-da9c-11e9-895a-371ac375e4ef/element/90752360-da9c-11e9-895a-371ac375e4ef/click',
+      query: {}
+    },
+    responseTime: 6
+  }
+}
+{
+  level: 'info',
+  message: 'POST /session/905391a0-da9c-11e9-895a-371ac375e4ef/element 200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/905391a0-da9c-11e9-895a-371ac375e4ef/element',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-type': 'application/json; charset=utf-8',
+        'content-length': '54',
+        host: 'localhost:2432',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/session/905391a0-da9c-11e9-895a-371ac375e4ef/element',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'GET ' +
+    '/session/905391a0-da9c-11e9-895a-371ac375e4ef/element/907857b0-da9c-11e9-895a-371ac375e4ef/text ' +
+    '200 1ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/905391a0-da9c-11e9-895a-371ac375e4ef/element/907857b0-da9c-11e9-895a-371ac375e4ef/text',
+      headers: {
+        'cache-control': 'no-cache',
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        host: 'localhost:2432',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/session/905391a0-da9c-11e9-895a-371ac375e4ef/element/907857b0-da9c-11e9-895a-371ac375e4ef/text',
+      query: {}
+    },
+    responseTime: 1
+  }
+}
+{
+  level: 'info',
+  message: 'DELETE /session/905391a0-da9c-11e9-895a-371ac375e4ef 200 3ms',
+  meta: {
+    res: { statusCode: 200 },
+    req: {
+      url: '/session/905391a0-da9c-11e9-895a-371ac375e4ef',
+      headers: {
+        'user-agent': 'selenium/3.141.59 (java windows)',
+        'content-length': '0',
+        host: 'localhost:2432',
+        connection: 'Keep-Alive',
+        'accept-encoding': 'gzip'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/session/905391a0-da9c-11e9-895a-371ac375e4ef',
+      query: {}
+    },
+    responseTime: 3
+  }
+}
