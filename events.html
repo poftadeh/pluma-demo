@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+  </head>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      background-color: #3498db;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100%;
+    }
+
+    .container {
+      color: #ecf0f1;
+      font-size: 2rem;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+    }
+
+    .log-title {
+      background-color: #2c3e50;
+      width: 28%;
+      font-size: 1.2rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05rem;
+      text-align: center;
+    }
+
+    .event-container {
+      margin-top: 5rem;
+    }
+
+    #event-log {
+      vertical-align: middle;
+      text-align: center;
+      min-width: 35rem;
+      min-height: 3rem;
+      background-color: #34495e;
+    }
+
+    button {
+      color: #ecf0f1;
+      border: none;
+      border-radius: 5px;
+      font-size: 2rem;
+      font-weight: 700;
+      cursor: pointer;
+      padding: 0.5rem;
+      background-color: #e74c3c;
+      letter-spacing: 0.05rem;
+      transition: all 0.3s;
+      user-select: none;
+      text-transform: uppercase;
+      box-shadow: 0px 1px 1px #c0392b;
+    }
+
+    button:hover {
+      box-shadow: 0px 0px 9px #ecf0f1;
+    }
+  </style>
+  <body>
+    <div class="container">
+      <button id="enabled">Test Button</button>
+      <div class="event-container">
+        <h3 class="log-title">Event Log:</h3>
+        <p id="event-log"></p>
+      </div>
+    </div>
+    <script>
+      const handleEvent = event => () => {
+        const eventLog = document.querySelector('#event-log');
+        const { textContent } = eventLog;
+        eventLog.textContent += textContent.length === 0 ? event : ` ${event}`;
+      };
+
+      const addEventListeners = (element, events) => {
+        events.forEach(event => {
+          element.addEventListener(event, handleEvent(event));
+        });
+      };
+
+      const EVENTS = ['mouseover', 'mouseup', 'mousedown', 'click'];
+
+      document.querySelectorAll('button').forEach(button => {
+        addEventListeners(button, EVENTS);
+      });
+    </script>
+  </body>
+</html>
